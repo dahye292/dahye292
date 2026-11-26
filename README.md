@@ -33,6 +33,8 @@
 
 수출 증감률이 10%p 떨어지면 6개월 뒤 요구불예금이 비교 기업보다 **3.6%** 줄어드는 것을 확인하고, 상담 후보 제안 도구와 현황판으로 만들었습니다.
 
+**내 역할** · 팀장으로 다섯 명의 분석을 하나의 결론으로 묶고, 저축성예금 분석과 효과 검증 실험 설계를 맡았습니다.
+
 <img src="./images/badges/python_e6e4e1.svg" alt="Python"> <img src="./images/badges/pandas_e6e4e1.svg" alt="pandas"> <img src="./images/badges/numpy_e6e4e1.svg" alt="NumPy"> <img src="./images/badges/matplotlib_e6e4e1.svg" alt="matplotlib"> <img src="./images/badges/linearmodels_e6e4e1.svg" alt="linearmodels"> <img src="./images/badges/jupyter_e6e4e1.svg" alt="Jupyter"> <img src="https://img.shields.io/badge/Panel%20OLS-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/Holm%20%EB%B3%B4%EC%A0%95-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/PSM-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/%EC%8B%A4%ED%97%98%20%EC%84%A4%EA%B3%84-dde5ee?style=flat-square">
 
 <details>
@@ -63,6 +65,8 @@
 
 대구 133개 행정동에서 폭염과 오존이 3년 연속 겹친 동네 **16곳**을 찾아 우선 녹지 확충지를 제안했습니다.
 
+**내 역할** · 개인 프로젝트로 데이터 수집부터 분석, 웹지도 제작까지 모두 했습니다.
+
 <img src="./images/badges/python_e6e4e1.svg" alt="Python"> <img src="./images/badges/pandas_e6e4e1.svg" alt="pandas"> <img src="./images/badges/numpy_e6e4e1.svg" alt="NumPy"> <img src="./images/badges/matplotlib_e6e4e1.svg" alt="matplotlib"> <img src="./images/badges/planetary-computer_e6e4e1.svg" alt="Planetary Computer"> <img src="https://img.shields.io/badge/GeoPandas-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/rasterio-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/Landsat-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/%EC%9B%B9%EB%A7%B5-dde5ee?style=flat-square">
 
 <details>
@@ -92,6 +96,8 @@ Landsat 위성 지표온도, 에어코리아 대기질, 기상청 자료로 대�
 
 음식점·카페 인허가 **129,054건**으로, 폐업이 반복된 자리에 새로 연 가게가 더 빨리 문을 닫는지 검증했습니다.
 
+**내 역할** · 인허가 데이터 정제와 반복 폐업·골목 경보 분석, 서비스 아이디어 제안서 작성을 맡았습니다.
+
 <img src="./images/badges/python_e6e4e1.svg" alt="Python"> <img src="./images/badges/pandas_e6e4e1.svg" alt="pandas"> <img src="./images/badges/numpy_e6e4e1.svg" alt="NumPy"> <img src="./images/badges/matplotlib_e6e4e1.svg" alt="matplotlib"> <img src="./images/badges/scikit-learn_e6e4e1.svg" alt="scikit-learn"> <img src="https://img.shields.io/badge/%EC%9D%B8%ED%97%88%EA%B0%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/%ED%8F%90%EC%97%85%EB%A5%A0%20%EB%B6%84%EC%84%9D-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/AI%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B8%B0%ED%9A%8D-dde5ee?style=flat-square">
 
 <details>
@@ -120,6 +126,8 @@ Landsat 위성 지표온도, 에어코리아 대기질, 기상청 자료로 대�
 
 역별 승하차 데이터(2019–2024)로 역을 **베드타운·오피스타운·혼합형**으로 나누고 관광 대시보드로 넓혔습니다.
 
+**내 역할** · 팀장으로 팀을 운영하고, 노코드 분석 도구(Altair AI Studio)로 데이터 분석을 주로 맡았습니다.
+
 <img src="https://img.shields.io/badge/Altair%20AI%20Studio-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/Panopticon-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/X--Means-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/Random%20Forest-dde5ee?style=flat-square">
 
 <details>
@@ -134,8 +142,16 @@ Landsat 위성 지표온도, 에어코리아 대기질, 기상청 자료로 대�
 
 **내 역할**
 - **팀장**: 팀원 관리, 지원금 관리, 월별 활동보고서 작성·포스팅
-- **데이터 분석 (주 담당)**: AI Studio로 전처리·모델링 (라벨 없는 재활용품 데이터에 불량 라벨 직접 설계, 지하철 승하차 분석)
+- **데이터 분석 (주 담당)**: 노코드 분석 도구 Altair AI Studio로 전처리·모델링 (라벨 없는 재활용품 데이터에 불량 라벨 직접 설계, 지하철 승하차 분석)
 - 대시보드 제작은 팀원 모두 함께 참여
+
+<img src="./images/subway_aistudio.jpg" width="100%" alt="AI Studio에서 데이터 병합과 X-Means 군집 블록을 연결한 화면">
+
+<sub>AI Studio 작업 화면 (팀 작업)</sub>
+
+**배운 점**
+- 전처리, 모델링, 평가 단계를 블록으로 배치하고 연결하며 분석 흐름을 단계별로 이해했습니다.
+- 처음 다뤄 본 Panopticon으로 팀 대시보드를 끝까지 완성했습니다.
 
 </details>
 
@@ -152,6 +168,8 @@ Landsat 위성 지표온도, 에어코리아 대기질, 기상청 자료로 대�
 <b>🎮 Steam 게임 반응 예측</b><br><sub>2026.10–11 · 4인 팀 · iM뱅크 교육</sub>
 
 출시 전 정보 51개로 1년 리뷰 수의 80% 범위를 예측해 시험 데이터에서 **79.3%** 적중했습니다.
+
+**내 역할** · 데이터 수집 기준을 다시 설계하고, 출시 전 반응 예측 모델과 웹 프로토타입을 만들었습니다.
 
 <img src="./images/badges/python_e6e4e1.svg" alt="Python"> <img src="./images/badges/pandas_e6e4e1.svg" alt="pandas"> <img src="./images/badges/numpy_e6e4e1.svg" alt="NumPy"> <img src="./images/badges/lightgbm_e6e4e1.svg" alt="LightGBM"> <img src="./images/badges/optuna_e6e4e1.svg" alt="Optuna"> <img src="./images/badges/jupyter_e6e4e1.svg" alt="Jupyter"> <img src="./images/badges/typescript_e6e4e1.svg" alt="TypeScript"> <img src="./images/badges/vite_e6e4e1.svg" alt="Vite"> <img src="https://img.shields.io/badge/CatBoost-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/scikit--learn-e6e4e1?style=flat-square&logo=scikitlearn&logoColor=F7931E"> <img src="https://img.shields.io/badge/React-e6e4e1?style=flat-square&logo=react&logoColor=149ECA"> <img src="https://img.shields.io/badge/Steam%20API-e6e4e1?style=flat-square&logo=steam&logoColor=000000">
 
@@ -183,6 +201,8 @@ Landsat 위성 지표온도, 에어코리아 대기질, 기상청 자료로 대�
 <b>📨 민원 상담 핵심어 추출 비교</b><br><sub>2025-2 과제 → 2026 재설계 · 개인</sub>
 
 상담 100건의 정답을 직접 만들어 비교했고, 핵심어 포착률은 LLM이 **0.616**으로 단어 빈도(0.523)보다 높았지만 주제 묶기에서는 더 낫다는 근거를 얻지 못했습니다.
+
+**내 역할** · 개인 프로젝트로 정제부터 정답 작성, 평가 설계와 채점까지 모두 했습니다.
 
 <img src="./images/badges/python_e6e4e1.svg" alt="Python"> <img src="./images/badges/pandas_e6e4e1.svg" alt="pandas"> <img src="./images/badges/numpy_e6e4e1.svg" alt="NumPy"> <img src="./images/badges/matplotlib_e6e4e1.svg" alt="matplotlib"> <img src="./images/badges/scikit-learn_e6e4e1.svg" alt="scikit-learn"> <img src="./images/badges/sentence-transformers_e6e4e1.svg" alt="sentence-transformers"> <img src="./images/badges/gemma-3_e6e4e1.svg" alt="Gemma 3"> <img src="https://img.shields.io/badge/gensim-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/kiwipiepy-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/Ollama-e6e4e1?style=flat-square&logo=ollama&logoColor=000000">
 
@@ -220,7 +240,9 @@ Landsat 위성 지표온도, 에어코리아 대기질, 기상청 자료로 대�
 
 <b>⚖️ 법률 질의응답 RAG 비교</b><br><sub>2025-2 · 3인 팀 · 교내 LLM 집중 연구 프로그램</sub>
 
-판결문을 검색 문서로 쓴 RAG 시스템의 답변을 비교하는 프로젝트에서 **평가 지표 실험**을 맡았습니다.
+판결문을 검색 문서로 쓴 RAG 시스템의 답변 품질을 비교했습니다.
+
+**내 역할** · 세 시스템의 답변을 채점하는 평가 지표 실험을 맡았습니다.
 
 <img src="https://img.shields.io/badge/Gemma%203-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/RAGAS-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/RAG-dde5ee?style=flat-square">
 
@@ -239,6 +261,8 @@ Landsat 위성 지표온도, 에어코리아 대기질, 기상청 자료로 대�
 <b>📝 비포블랭크</b><br><sub>2026 · 개인</sub>
 
 AI 답을 보기 전에 **내 생각부터 적는** 질문 노트입니다.
+
+**내 역할** · 개인 프로젝트로 기획부터 화면 설계, 개발, 배포까지 모두 했습니다.
 
 <img src="./images/badges/python_e6e4e1.svg" alt="Python"> <img src="./images/badges/sql_e6e4e1.svg" alt="SQL"> <img src="https://img.shields.io/badge/Flask-e6e4e1?style=flat-square&logo=flask&logoColor=000000"> <img src="https://img.shields.io/badge/Claude%20API-e6e4e1?style=flat-square&logo=claude&logoColor=D97757"> <img src="https://img.shields.io/badge/JavaScript-e6e4e1?style=flat-square&logo=javascript&logoColor=F7DF1E">
 
@@ -267,6 +291,8 @@ AI 답을 보기 전에 내 생각부터 적는 질문 노트입니다. AI 답�
 <b>🗺 인증 없이 가는 서울</b><br><sub>2026.11 · 팀 · 서울관광 프롬프톤 Track 2 · 진행 중</sub>
 
 Reddit 글 **1,131건**으로 외국인 관광객이 인증·결제·예약에서 막히는 지점을 모아 서비스를 기획하고 있습니다.
+
+**내 역할** · Reddit 한국 여행 글 1,131건으로 외국인의 불편을 분류하고, 대안 앱 목록을 정리했습니다.
 
 <img src="./images/badges/python_e6e4e1.svg" alt="Python"> <img src="https://img.shields.io/badge/MCP-e6e4e1?style=flat-square"> <img src="https://img.shields.io/badge/%ED%81%AC%EB%A1%A4%EB%A7%81-dde5ee?style=flat-square"> <img src="https://img.shields.io/badge/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B8%B0%ED%9A%8D-dde5ee?style=flat-square">
 
